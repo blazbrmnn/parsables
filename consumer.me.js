@@ -16,6 +16,18 @@ Ravenska cesta 2, 9231 Beltinci
 **Receipts**
 - (24.2.2022 14:53) Kava (ab93e4034c4f107220231ab5ae89c198) *Omg luštna kelnarca*
 
+
+# Mercator
+… Market Celovška 104, Ljubljana
+
+⬡⬡⬡⬡⬡
+
+**Receipts**
+- (13.05.2019 12:14:50, 1079-3-71439) 5.-€
+... NAPITEK [
+  BIO RIž.KOK.B.G., OVSEN ISOLA BIO
+]1L
+
 */
 
 export class ShoppingList extends React.Component {
